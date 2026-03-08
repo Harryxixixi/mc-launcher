@@ -1,4 +1,4 @@
 # mc-launcher
 mc启动器
 
-dyq && Hray
+dyq && Hray 制作
